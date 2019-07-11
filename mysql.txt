@@ -1,0 +1,5 @@
+/*
+            Class.forName("com.mysql.jdbc.Driver");  
+            con=DriverManager.getConnection(  
+            "jdbc:mysql://localhost:3306/lms?useSSL=false&autoReconnect=true","root","1234");  
+            stmt=con.createStatement(); */
